@@ -1,4 +1,4 @@
-<img src="https://images4.alphacoders.com/130/1307940.png" height ="300" width="1000" ><br>
+<img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" height ="300" width="1000" ><br>
 <h1 align="center">Hi 👋, I'm Manul Bandara</h1>
 <h3 align="center">Undergraduate Student from Sri Lanka</h3>
 
