@@ -1,63 +1,117 @@
-<img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" height ="300" width="1000" ><br>
-<h1 align="center">Hi 👋, I'm Manul Bandara</h1>
-<h3 align="center">Undergraduate Student from Sri Lanka</h3>
-
-## Overall !!:sunglasses:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manulbandara&label=Profile%20views&color=0e75b6&style=flat" alt="manulbandara" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/manulbandara" target="blank"><img src="https://img.shields.io/twitter/follow/manulbandara?logo=twitter&style=for-the-badge" alt="manulbandara" /></a> </p>
-
-- 🔭 I’m currently working on [python for beginners UOM](https://open.uom.lk/lms/course/view.php?id=15)
-
-- 🌱 I’m currently learning **Python, AI, Web Development**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **C, C++, Web Development**
-
-- 📫 How to reach me **manulbandara@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1qbxoheDzbp_DQQVBxECHTB-Z3PxipYp4](https://drive.google.com/drive/u/0/folders/1qbxoheDzbp_DQQVBxECHTB-Z3PxipYp4)
-
-- ⚡ Fun fact **I think I am Funny😉**
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manulbandara" alt="manulbandara" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manulbandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manulbandara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manul bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manul bandara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:17447347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17447347" height="30" width="40" /></a>
-<a href="https://fb.com/manul winsuka bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manul winsuka bandara" height="30" width="40" /></a>
-<a href="https://instagram.com/manul winsuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manul winsuka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manul bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manul bandara" height="30" width="40" /></a>
-<a href="https://discord.gg/manul2391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manul2391" height="30" width="40" /></a>
+<!-- README.md -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Manul's%20Tech%20Hub&fontSize=40&fontColor=ffffff" alt="Header Banner" />
 </p>
 
-<img src = "https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" align = "right" style = "width:280px; padding-right:50px;"> </img>
+# 🚀 Hey, I'm Manul Bandara!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+**Undergraduate Developer | AI & Web Enthusiast | Sri Lanka 🌴**
 
-<h3 align="left">Support:</h3>
-<br>
-<br>
-<p><a href="https://www.buymeacoffee.com/ManulBandara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ManulBandara" /></a></p><br><br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manulbandara&show_icons=true&locale=en&layout=compact" alt="manulbandara" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&locale=en" alt="manulbandara" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&" alt="manulbandara" /></p>
-<br>
+Hey there! I'm a passionate coder from Sri Lanka, diving deep into **Python**, **AI**, and **Web Development**. From crafting sleek websites to building smart apps, I love transforming ideas into reality. Ready to collaborate and create something epic? Let’s make it happen! 🔥
 
-## 🔵<strong> Current Mood😋<strong> 
-<h3>Inspired🤩 & Motivated😎</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00C4FF&center=true&vCenter=true&width=500&lines=Python+Maestro;AI+Innovator;Web+Dev+Wizard;Let’s+Build+the+Future!" alt="Typing SVG" />
+</p>
 
-![Nice](https://github.com/Randula98/Randula98/blob/main/Ht60.gif)
+---
 
-##
+## 🌌 About Me
 
+- 🎓 Studying at **University of Moratuwa**, Sri Lanka
+- 🔭 Working on **[Python for Beginners UOM](https://open.uom.lk/lms/course/view.php?id=15)** and exploring AI-driven projects
+- 🌱 Mastering **Python**, **AI**, **React**, and **Node.js**
+- 👯 Eager to collaborate on **Web Development** and **Open-Source Projects**
+- 💬 Talk to me about **C**, **C++**, **Web Dev**, or my travel app projects
+- 📫 Reach out at **manulbandara@gmail.com**
+- 📄 My experiences: [Google Drive](https://drive.google.com/drive/u/0/folders/1qbxoheDzbp_DQQVBxECHTB-Z3PxipYp4)
+- ⚡ **Fun Fact**: I’m the coder with the best jokes in town! 😎
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manulbandara&label=Profile%20Views&color=00C4FF&style=flat-square" alt="Profile views" />
+  <a href="https://twitter.com/manulbandara"><img src="https://img.shields.io/twitter/follow/manulbandara?logo=twitter&style=flat-square&color=00C4FF" alt="Twitter Follow" /></a>
+</p>
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://twitter.com/manulbandara"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45" style="margin: 0 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://linkedin.com/in/manul bandara"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://stackoverflow.com/users/17447347"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="45" height="45" style="margin: 0 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://fb.com/manul winsuka bandara"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45" style="margin: 0 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://instagram.com/manul winsuka"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="45" height="45" style="margin: 0 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://www.youtube.com/c/manul bandara"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" width="45" height="45" style="margin: 0 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://discord.gg/manul2391"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="45" height="45" style="margin: 0 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+</p>
+
+---
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45" style="margin: 0 12px;" /></a>
+  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" style="margin: 0 12px;" /></a>
+</p>
+
+---
+
+## 🏆 My Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manulbandara&theme=radical&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manulbandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=radical" alt="GitHub Streak" style="margin: 10px;" />
+</p>
+
+---
+
+## 😄 Current Vibe
+
+**Fueled by Code & Coffee ☕ | Ready to Innovate!**
+
+<p align="center">
+  <img src="https://gifdb.com/images/featured/coding-animated-7eqg8v2o76x3p7tw.gif" alt="Coding GIF" width="250" />
+</p>
+
+---
+
+## ☕ Support My Journey
+
+Love my work? Fuel my coding adventures with a coffee! 🚀
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ManulBandara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="160" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20" alt="Footer Wave" />
+</p>
