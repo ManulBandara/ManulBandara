@@ -1,127 +1,91 @@
-<!-- README.md -->
+<img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" height="300" width="1000" alt="banner"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Manul+Bandara;Passionate+Fullstack+Developer+%F0%9F%94%A5;AI+%7C+Mobile+%7C+Web+Enthusiast;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
-</div>
-
-<br>
+<h1 align="center">Hi 👋, I'm Manul Bandara</h1>
+<h3 align="center">🎓 Undergraduate Student from Sri Lanka | 💻 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" />
+  <img src="https://komarev.com/ghpvc/?username=manulbandara&label=Profile%20views&color=0e75b6&style=flat" alt="manulbandara" />
+  <a href="https://twitter.com/manulbandara" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/manulbandara?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-
-- 🎓 I’m a Final Year BSc IT Student  
-- 💼 Associate Software Engineer (React / Laravel / Flutter / AI)
-- 🚀 Building amazing full-stack & AI-based projects
-- 🌱 Currently learning **AI | ML | DevOps | Cloud**
-- 💬 Ask me about `JavaScript`, `React`, `Laravel`, `Python`, `Flutter`
-- 🧠 Building apps that improve thinking, memory, and productivity
-- 🎯 Goal: To become a Senior AI Engineer and drive innovation 🚘
+### 🌟 About Me
+- 🔭 I’m currently working on [Python for Beginners - UOM](https://open.uom.lk/lms/course/view.php?id=15)
+- 🌱 I’m learning **Python, AI, Web Development**
+- 👯 I’m looking to collaborate on **Web Projects**
+- 💬 Ask me about **C, C++, Web Development**
+- 📫 Reach me at **manulbandara@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/drive/u/0/folders/1qbxoheDzbp_DQQVBxECHTB-Z3PxipYp4)
+- ⚡ Fun Fact: **I think I'm Funny 😉**
 
 ---
 
-## 📈 GitHub Stats
-
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=radical" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&theme=radical" height="170px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manulbandara&theme=algolia&margin-w=10&row=2&column=3" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manulbandara/manulbandara/output/github-contribution-grid-snake.svg" alt="snake" />
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/manulbandara" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/manulbandara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/17447347" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://fb.com/manul.w.bandara" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/manul.winsuka" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@manulbandara" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/manul2391" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" align="right" width="300"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/manulbandara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/manulbandara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/manulwinsuka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:manulbandara2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=react&locale=en" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=react" width="47%" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&theme=react" width="47%" />
 </p>
 
 ---
 
-## 🧩 Featured Projects (With GIFs)
-
-### 🎮 Brain Training Game App  
-> Boost memory, logic & focus through fun games
-
-![Brain Game](https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif)
-
-### 📲 TripMate Travel Planner App  
-> Personalized travel plans with real-time AI recommendations
-
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
----
-
-## 📊 Profile Views & Badges
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manulbandara&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/manulbandara?label=Follow&style=social"/>
+### ☕ Support Me
+<p>
+  <a href="https://www.buymeacoffee.com/ManulBandara" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me a Coffee" />
+  </a>
 </p>
 
 ---
 
-## 📅 My GitHub Calendar
+## 💙 Current Mood: Inspired & Motivated 😎
 
-<p align="center">
-  <img src="https://github.com/ManulBandara/ManulBandara/raw/main/github-metrics.svg" />
-</p>
-
----
-
-## 🚧 Currently Working On
-
-- ✨ Brain Power Game App (React Native)
-- 🗺️ 3D Travel Discovery App with AI Recommendations
-- 📚 Interactive Library System (Laravel + MySQL)
-- 🌟 AI-based Real-time Tour Suggestion Model
-
----
-
-> 🔥 _"Coding is not just a skill, it's a mindset."_ — Manul
-
----
-
-## 🧠 Let's Collaborate!
-
-If you're passionate about tech, travel, AI, or just want to build cool stuff together—**feel free to connect!** 💡
-
----
-
-## 💬 Bonus Easter Egg!
-
-```js
-const future = {
-  car: "🚘 BMW i8",
-  health: "💪 Fit & Strong",
-  mindset: "🚀 Growth",
-  country: "🌴 Sri Lanka",
-  success: "🔥 100%"
-}
+![Mood Gif](https://github.com/Randula98/Randula98/blob/main/Ht60.gif)
