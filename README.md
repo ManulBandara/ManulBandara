@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/manulbandara" target="blank"><img src="https://img.shields.io/twitter/follow/manulbandara?logo=twitter&style=for-the-badge" alt="manulbandara" /></a> </p>
 
-- 🔭 I’m currently working on [python for beginners UOM](https://open.uom.lk/lms/course/view.php?id=15)
+- 🔭 I’m currently working on [AL Based Travel App](https://github.com/piyumal2105/TripMate)
 
-- 🌱 I’m currently learning **Python, AI, Web Development**
+- 🌱 I’m currently learning **Python, AI, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Software Development Projects**
 
 - 💬 Ask me about **C, C++, Web Development**
 
