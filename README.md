@@ -1,358 +1,73 @@
-<!-- ===================================================================================== -->
-<!-- ULTRA MODERN FUTURISTIC GITHUB PROFILE - MANUL BANDARA -->
-<!-- ===================================================================================== -->
+<div align="center"> <!-- Futuristic Header with Animated Elements --> <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=MANUL%20BANDARA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20|%20AI%20Enthusiast%20|%20Full-Stack%20Developer&descSize=20&descAlignY=60"/> <!-- Dynamic Typing Animation --> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe+🚀;Building+the+Future+with+Code+⚡;AI+%7C+Web+Dev+%7C+Mobile+Apps+🌟" alt="Typing SVG" /> <!-- Holographic Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- 3D Profile Stats Card --> <img src="https://github-profile-trophy.vercel.app/?username=manulbandara&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"/> </div> 
+🌌 About Me
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/> 
+interface Developer {
+  name: string;
+  role: string[];
+  location: string;
+  currentFocus: string[];
+  techStack: TechStack;
+  passions: string[];
+}
 
-<div align="center">
-  
-<!-- MATRIX-STYLE ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=350&section=header&text=%20&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%20&descSize=20&descAlignY=51"/>
-
-<div style="position: relative; top: -280px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2800&pause=2000&color=00D4AA&center=true&vCenter=true&width=940&height=80&lines=MANUL+BANDARA;%E2%9A%A1+SOFTWARE+ARCHITECT+%E2%9A%A1;%F0%9F%9A%80+AI+INNOVATOR+%F0%9F%9A%80;%F0%9F%8C%9F+FULL-STACK+VISIONARY+%F0%9F%8C%9F" alt="Typing SVG" />
-</div>
-
-<!-- NEON GLOW EFFECT PROFILE BADGES -->
-<div style="margin-top: -200px;">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Sri%20Lanka%20🇱🇰-FF6B35?style=for-the-badge&logo=location&logoColor=white&labelColor=FF6B35&color=FF8E53"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Undergraduate-4285F4?style=for-the-badge&logo=academic-cap&logoColor=white&labelColor=4285F4&color=5A9BF8"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Open%20to%20Work-00D4AA?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=00D4AA&color=26E0B8"/>
-</div>
-
-<br>
-
-<!-- CYBER DIVIDER -->
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<!-- HOLOGRAPHIC STATS SHOWCASE -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  DIGITAL MATRIX OVERVIEW
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<img src="https://github-profile-trophy.vercel.app/api/?username=manulbandara&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
-</div>
-
-<!-- ===================================================================================== -->
-<!-- ABOUT MATRIX SECTION -->
-<!-- ===================================================================================== -->
-
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif"/>
-
-```yaml
-apiVersion: developer/v2
-kind: SoftwareEngineer
-metadata:
-  name: Manul Bandara
-  namespace: global-tech-ecosystem
-  labels:
-    role: "full-stack-architect"
-    passion: "ai-innovation"
-    location: "sri-lanka"
-    status: "actively-coding"
-spec:
-  expertise:
-    primary: ["Software Development", "AI/ML Engineering", "Mobile Apps"]
-    secondary: ["UI/UX Design", "System Architecture", "DevOps"]
-  
-  currentProjects:
-    - name: "AI-TripMate"
-      type: "travel-intelligence-platform"
-      tech: ["Python", "Machine Learning", "Flutter"]
-      status: "in-development"
-      impact: "revolutionary-travel-experience"
-  
-  learning:
-    focus: ["Advanced AI", "Cloud Architecture", "Web3"]
-    methodology: "hands-on-projects"
-    
-  collaboration:
-    openTo: ["Open Source", "Startups", "Research Projects"]
-    preferred: ["Remote", "Agile", "Innovation-Driven"]
-    
-  contact:
-    email: "manulbandara@gmail.com"
-    philosophy: "Code with purpose, innovate with passion"
-```
-
-<br clear="both"/>
-
-<!-- ===================================================================================== -->
-<!-- TECH STACK MATRIX -->
-<!-- ===================================================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  TECH STACK ARSENAL
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-</h2>
-
-<!-- FRONTEND MASTERY -->
-<h3>🎨 Frontend Universe</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,bootstrap,sass,flutter,dart,kotlin,figma&perline=7&theme=dark" />
-
-<!-- BACKEND EXCELLENCE -->
-<h3>⚡ Backend Powerhouse</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,php,laravel,java,spring,cpp,c,rust&perline=6&theme=dark" />
-
-<!-- DATABASE & CLOUD -->
-<h3>🗄️ Data & Cloud Mastery</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,aws,gcp,docker,kubernetes&perline=5&theme=dark" />
-
-<!-- TOOLS & PLATFORMS -->
-<h3>🛠️ Development Ecosystem</h3>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,postman,linux,bash,nginx,vercel&perline=5&theme=dark" />
-
-</div>
-
-<!-- ===================================================================================== -->
-<!-- GITHUB ANALYTICS DASHBOARD -->
-<!-- ===================================================================================== -->
-
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35">
-  PERFORMANCE ANALYTICS
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35">
-</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Analytics"/>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff&layout=compact&langs_count=8&custom_title=💻%20Code%20Distribution"/>
-
-</div>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=manulbandara&theme=radical&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b35&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00d4aa&sideNums=00d4aa" width="60%"/>
-
+const manul: Developer = {
+  name: "Manul Bandara",
+  role: ["Full Stack Developer", "AI Engineer", "Mobile Developer"],
+  location: "Sri Lanka 🇱🇰",
+  currentFocus: ["AI/ML Applications", "React Ecosystem", "Flutter Development"],
+  techStack: {
+    frontend: ["React", "Flutter", "HTML5", "CSS3", "JavaScript"],
+    backend: ["Node.js", "Express.js", "Python", "PHP"],
+    databases: ["MongoDB", "MySQL", "SQLite", "Firebase"],
+    tools: ["Git", "Figma", "Postman", "Android Studio"]
+  },
+  passions: ["Clean Code", "UI/UX Design", "Problem Solving", "Innovation"]
+};
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+🚀 Current Mission
+<div align="center"> 
+🎯 Featured Project: AI-Powered TripMate
+Revolutionizing travel planning with artificial intelligence
+<img src="https://img.shields.io/badge/Status-In%20Development-00ff41?style=for-the-badge&logo=rocket&logoColor=white"/> <img src="https://img.shields.io/badge/Tech-AI/ML-ff6b6b?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Platform-Mobile-4ecdc4?style=for-the-badge&logo=android&logoColor=white"/> </div> <br> 
+⚡ Tech Arsenal
+<div align="center"> 
+🎨 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,flutter,dart,kotlin,figma&theme=dark" /> 
+⚙️ Backend Excellence
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,c,cpp&theme=dark" /> 
+🗄️ Database Wizardry
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" /> 
+🛠️ Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,photoshop,vscode&theme=dark" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+📊 Performance Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+🌐 Connect & Collaborate
+<div align="center"> 
+Let's build the future together! 🤝
+<a href="mailto:manulbandara@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/manul-bandara"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/manulbandara"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://instagram.com/manul_winsuka"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://youtube.com/c/manulbandara"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://discord.gg/manul2391"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a> 
 <br><br>
+💝 Support My Journey
+<a href="https://www.buymeacoffee.com/ManulBandara"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+🎯 What I'm Up To
+<div align="center"> 
+🔭 Current Project	🌱 Learning	👯 Open to Collaborate
+AI Travel Companion App	Advanced Python & ML	Full-Stack Web Applications
+Mobile UI/UX Enhancement	Cloud Computing	Open Source Projects
+Real-time Chat Systems	DevOps & Deployment	Innovative Startups
+</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+💭 Philosophy & Fun Facts
+<div align="center"> 
+"Code is poetry written in logic, and bugs are just unexpected plot twists!"
+</div> 
+•	🧠 Mindset: Always learning, always growing
+•	🎨 Passion: Creating beautiful, functional experiences
+•	🌟 Goal: Building technology that makes life better
+•	😄 Fun Fact: I debug with coffee and solve problems with music
+•	🎯 2024 Objective: Launch 3 production-ready applications
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+📈 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <div align="center"> 
+🎉 Thanks for visiting!
+⭐ Star my repositories if you find them helpful!
+<img src="https://komarev.com/ghpvc/?username=manulbandara&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" /> <!-- Futuristic Footer --> <img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/> </div>
 
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&custom_title=🎯%20Contribution%20Matrix&bg_color=0d1117&color=00d4aa&line=ff6b35&point=ffffff&area=true&hide_border=true&theme=react-dark" width="95%"/>
-
-</div>
-
-<!-- ===================================================================================== -->
-<!-- FEATURED PROJECTS SHOWCASE -->
-<!-- ===================================================================================== -->
-
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/K1tgb1IUeBOgw/giphy.gif" width="35">
-  FEATURED INNOVATIONS
-  <img src="https://media.giphy.com/media/K1tgb1IUeBOgw/giphy.gif" width="35">
-</h2>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-
-<!-- PROJECT 1: AI TRIPMATE -->
-<div align="center">
-<a href="https://github.com/piyumal2105/TripMate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=TripMate&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff6b35&text_color=ffffff"/>
-</a>
-
-**🚀 AI-POWERED TRAVEL COMPANION**
-<br>
-<img src="https://img.shields.io/badge/AI-Powered-00d4aa?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-Mobile-ff6b35?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge&logo=rocket&logoColor=white"/>
-</div>
-
-</div>
-
-</div>
-
-<!-- ===================================================================================== -->
-<!-- CURRENT FOCUS MATRIX -->
-<!-- ===================================================================================== -->
-
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="35">
-  MISSION CONTROL CENTER
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="35">
-</h2>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🎯 CURRENT FOCUS**
-<br><br>
-🔬 AI/ML Research<br>
-🌐 Full-Stack Development<br>
-📱 Mobile App Innovation<br>
-☁️ Cloud Architecture<br>
-🎨 UI/UX Excellence
-
-</td>
-<td align="center" width="33%">
-
-**🚀 ACTIVE PROJECTS**
-<br><br>
-🧠 AI Travel Assistant<br>
-💬 Real-time Chat Systems<br>
-📊 Data Analytics Dashboard<br>
-🔐 Secure Authentication<br>
-🌟 Open Source Contributions
-
-</td>
-<td align="center" width="33%">
-
-**🎓 LEARNING PATH**
-<br><br>
-🤖 Advanced Machine Learning<br>
-⚡ Performance Optimization<br>
-🛡️ Cybersecurity Fundamentals<br>
-🌐 Web3 Technologies<br>
-📈 System Scalability
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ===================================================================================== -->
-<!-- CONNECT & COLLABORATE -->
-<!-- ===================================================================================== -->
-
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  CONNECT & COLLABORATE
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-</h2>
-
-<!-- SOCIAL MEDIA MATRIX -->
-<a href="mailto:manulbandara@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B"/>
-</a>
-<a href="https://linkedin.com/in/manul-bandara">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-</a>
-<a href="https://twitter.com/manulbandara">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
-</a>
-<a href="https://instagram.com/manul_winsuka">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-</a>
-<a href="https://youtube.com/c/manulbandara">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
-</a>
-<a href="https://discord.gg/manul2391">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2"/>
-</a>
-<a href="https://stackoverflow.com/users/17447347">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16"/>
-</a>
-
-<br><br>
-
-<!-- SUPPORT SECTION -->
-<h3>💖 Support My Journey</h3>
-
-<a href="https://www.buymeacoffee.com/ManulBandara">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00"/>
-</a>
-<a href="https://ko-fi.com/manulbandara">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061"/>
-</a>
-
-</div>
-
-<!-- ===================================================================================== -->
-<!-- CODING PHILOSOPHY -->
-<!-- ===================================================================================== -->
-
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
-  CODING PHILOSOPHY
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
-</h2>
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Manul Bandara"
-        self.mindset = "Growth-oriented"
-        self.passion = "Building impactful solutions"
-        
-    def life_philosophy(self):
-        return [
-            "🚀 Dream big, code bigger",
-            "⚡ Innovation through iteration", 
-            "🌟 Quality over quantity",
-            "🤝 Collaboration breeds excellence",
-            "💡 Every bug is a learning opportunity",
-            "🎯 User experience is everything"
-        ]
-        
-    def daily_routine(self):
-        return "☕ Coffee → 💻 Code → 🧠 Learn → 🔄 Repeat"
-        
-    def future_goals(self):
-        return "Building AI solutions that make the world better! 🌍"
-```
-
-<br>
-
-**⚡ Current Vibe:** `Innovative • Passionate • Solution-Focused`
-<br>
-**🎯 2024 Mission:** `Launch groundbreaking AI applications & contribute to open source`
-
-</div>
-
-<!-- ===================================================================================== -->
-<!-- VISITOR ANALYTICS -->
-<!-- ===================================================================================== -->
-
-<img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-
-<div align="center">
-
-<h2>🌟 PROFILE ANALYTICS</h2>
-
-<img src="https://komarev.com/ghpvc/?username=manulbandara&label=Profile%20Views&color=00d4aa&style=for-the-badge&logo=github" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/manulbandara?label=Followers&style=for-the-badge&color=00d4aa&labelColor=1a1a1a&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/badge/⭐%20Stars-Give%20My%20Repos%20A%20Star-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br><br>
-
-**🎨 Made with 💖 and lots of ☕**
-<br>
-*"In a world full of code, be the algorithm that makes a difference!"*
-
-<!-- MATRIX FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6,2,0&height=200&section=footer&animation=twinkling"/>
-
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
