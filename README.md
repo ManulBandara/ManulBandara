@@ -1,158 +1,73 @@
-<div align="center">
+<div align="center"> <!-- Futuristic Header with Animated Elements --> <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=MANUL%20BANDARA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20|%20AI%20Enthusiast%20|%20Full-Stack%20Developer&descSize=20&descAlignY=60"/> <!-- Dynamic Typing Animation --> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe+🚀;Building+the+Future+with+Code+⚡;AI+%7C+Web+Dev+%7C+Mobile+Apps+🌟" alt="Typing SVG" /> <!-- Holographic Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- 3D Profile Stats Card --> <img src="https://github-profile-trophy.vercel.app/?username=manulbandara&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"/> </div> 
+🌌 About Me
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/> 
+interface Developer {
+  name: string;
+  role: string[];
+  location: string;
+  currentFocus: string[];
+  techStack: TechStack;
+  passions: string[];
+}
 
-<!-- Clean, Professional Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Manul%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descSize=20&descAlignY=58"/>
-
-<!-- Dynamic Introduction -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Creating+AI-powered+solutions;Passionate+about+clean+code;Always+learning+new+technologies" alt="Typing Animation" />
-
-</div>
-
-## 🚀 About Me
-
-```typescript
-const manul = {
+const manul: Developer = {
+  name: "Manul Bandara",
+  role: ["Full Stack Developer", "AI Engineer", "Mobile Developer"],
   location: "Sri Lanka 🇱🇰",
-  role: "Full-Stack Developer & AI Engineer",
-  experience: "5+ years",
-  currentFocus: "AI applications & modern web development",
-  
+  currentFocus: ["AI/ML Applications", "React Ecosystem", "Flutter Development"],
   techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Flutter"],
-    backend: ["Node.js", "Python", "Express", "FastAPI"],
-    databases: ["MongoDB", "PostgreSQL", "Firebase"],
-    tools: ["Docker", "AWS", "Git", "Figma"]
+    frontend: ["React", "Flutter", "HTML5", "CSS3", "JavaScript"],
+    backend: ["Node.js", "Express.js", "Python", "PHP"],
+    databases: ["MongoDB", "MySQL", "SQLite", "Firebase"],
+    tools: ["Git", "Figma", "Postman", "Android Studio"]
   },
-  
-  currentlyWorking: "AI-powered travel companion app",
-  openToCollaborate: true,
-  askMeAbout: ["React", "Node.js", "AI/ML", "System Design"]
+  passions: ["Clean Code", "UI/UX Design", "Problem Solving", "Innovation"]
 };
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+🚀 Current Mission
+<div align="center"> 
+🎯 Featured Project: AI-Powered TripMate
+Revolutionizing travel planning with artificial intelligence
+<img src="https://img.shields.io/badge/Status-In%20Development-00ff41?style=for-the-badge&logo=rocket&logoColor=white"/> <img src="https://img.shields.io/badge/Tech-AI/ML-ff6b6b?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Platform-Mobile-4ecdc4?style=for-the-badge&logo=android&logoColor=white"/> </div> <br> 
+⚡ Tech Arsenal
+<div align="center"> 
+🎨 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,flutter,dart,kotlin,figma&theme=dark" /> 
+⚙️ Backend Excellence
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,c,cpp&theme=dark" /> 
+🗄️ Database Wizardry
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" /> 
+🛠️ Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,photoshop,vscode&theme=dark" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+📊 Performance Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+🌐 Connect & Collaborate
+<div align="center"> 
+Let's build the future together! 🤝
+<a href="mailto:manulbandara@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/manul-bandara"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/manulbandara"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://instagram.com/manul_winsuka"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://youtube.com/c/manulbandara"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://discord.gg/manul2391"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a> 
+<br><br>
+💝 Support My Journey
+<a href="https://www.buymeacoffee.com/ManulBandara"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+🎯 What I'm Up To
+<div align="center"> 
+🔭 Current Project	🌱 Learning	👯 Open to Collaborate
+AI Travel Companion App	Advanced Python & ML	Full-Stack Web Applications
+Mobile UI/UX Enhancement	Cloud Computing	Open Source Projects
+Real-time Chat Systems	DevOps & Deployment	Innovative Startups
+</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+💭 Philosophy & Fun Facts
+<div align="center"> 
+"Code is poetry written in logic, and bugs are just unexpected plot twists!"
+</div> 
+•	🧠 Mindset: Always learning, always growing
+•	🎨 Passion: Creating beautiful, functional experiences
+•	🌟 Goal: Building technology that makes life better
+•	😄 Fun Fact: I debug with coffee and solve problems with music
+•	🎯 2024 Objective: Launch 3 production-ready applications
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+📈 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <div align="center"> 
+🎉 Thanks for visiting!
+⭐ Star my repositories if you find them helpful!
+<img src="https://komarev.com/ghpvc/?username=manulbandara&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" /> <!-- Futuristic Footer --> <img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/> </div>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Cloud**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/manulbandara/ai-tripmate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manulbandara&repo=ai-tripmate&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/manulbandara/chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manulbandara&repo=chat-app&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 🌟 Project Highlights
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|---------|
-| **AI TripMate** | AI-powered travel companion with personalized recommendations | Flutter, Python, Firebase | 🟢 Active |
-| **Smart Chat** | Real-time messaging with AI integration | React, Node.js, Socket.io | 🟢 Active |
-| **E-Commerce Platform** | Full-featured online store with admin panel | Next.js, MongoDB, Stripe | ✅ Complete |
-| **Portfolio Website** | Responsive personal portfolio with blog | React, TypeScript, Vercel | ✅ Complete |
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%"/>
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=manulbandara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
-
-</div>
-
-**2024 Goals:**
-- ✅ Build and deploy 5 production applications
-- ✅ Contribute to 10+ open source projects  
-- ✅ Learn advanced AI/ML techniques
-- 🎯 Speak at a tech conference
-- 🎯 Launch a SaaS product
-
-## 💼 Experience & Skills
-
-**Professional Experience:**
-- 5+ years in full-stack development
-- Experience with agile methodologies
-- Strong problem-solving and system design skills
-- Team collaboration and mentoring
-
-**What I'm Learning:**
-- Advanced AI/ML algorithms
-- Cloud architecture patterns
-- DevOps and CI/CD best practices
-- Mobile app optimization
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manul-bandara)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manulbandara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manulbandara@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://manulbandara.dev)
-
-</div>
-
-## 💡 Fun Facts
-
-- 🔭 I'm currently working on **AI-powered travel applications**
-- 🌱 I'm learning **Advanced Machine Learning** and **System Design**
-- 👯 I'm looking to collaborate on **innovative web applications**
-- 💬 Ask me about **React, Node.js, AI/ML, and system architecture**
-- 📫 How to reach me: **manulbandara@gmail.com**
-- ⚡ Fun fact: **I debug with coffee and solve problems with music** ☕🎵
-
----
-
-<div align="center">
-
-### Thanks for visiting! 😊
-
-![Profile Views](https://komarev.com/ghpvc/?username=manulbandara&style=flat-square&color=36BCF7)
-
-⭐ **If you like my work, please consider starring my repositories!**
-
-</div>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
