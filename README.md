@@ -1,242 +1,315 @@
+<!-- Animated Header with Particles -->
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=MANUL%20BANDARA&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,18,20&height=200&section=header&text=MANUL%20BANDARA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20universe&descAlignY=55&descAlign=50"/>
 </div>
 
-<div align="center">
-
-## 👋 Welcome to my digital space
-
-*Building tomorrow's solutions with today's technology*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=manulbandara&style=flat-square&color=58a6ff&label=Views)
-![GitHub Followers](https://img.shields.io/github/followers/manulbandara?style=flat-square&color=58a6ff)
-![GitHub Stars](https://img.shields.io/github/stars/manulbandara?style=flat-square&color=58a6ff)
-
-</div>
-
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🚀 About Me
-
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string[];
-  languages: string[];
-  currentFocus: string;
-  passions: string[];
-}
-
-const manul: Developer = {
-  name: "Manul Bandara",
-  location: "Sri Lanka 🇱🇰",
-  role: ["Full Stack Developer", "AI Engineer"],
-  languages: ["TypeScript", "Python", "JavaScript", "Kotlin"],
-  currentFocus: "Building AI-powered applications",
-  passions: ["Clean Code", "Innovation", "Problem Solving"]
-};
-```
-
-<br clear="right">
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,php,cpp,c" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,sass,bootstrap" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,redis,graphql" />
-</p>
-
-### Mobile & Desktop
-<p>
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,electron,androidstudio" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux,vercel" />
-</p>
-
-### AI/ML & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,figma,photoshop,vscode,postman" />
-</p>
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area_color=1a1b27&title_color=70a5fd&area=true&hide_border=true&border_radius=10" width="100%"/>
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 TripMate AI
-*AI-Powered Travel Companion with 3D Visualization*
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=TripMate&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/piyumal2105/TripMate)
-
-</div>
-
-**Technologies:**
-- React Native
-- Machine Learning
-- 3D Modeling
-- Real-time AI
-
-**Features:**
-- 🎯 Smart Trip Planning
-- 🗺️ Interactive 3D Models
-- 🤖 AI-powered Recommendations
-- 📱 Cross-platform Mobile App
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 ShopHub.lk
-*Next-Generation E-Commerce Platform*
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=ShopHub.lk&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/piyumal2105/ShopHub.lk)
-
-</div>
-
-**Technologies:**
-- MERN Stack
-- Modern UI/UX
-- Payment Integration
-- Real-time Updates
-
-**Features:**
-- 🏪 Multi-vendor Support
-- 💳 Secure Payments
-- 📊 Analytics Dashboard
-- 🚀 Fast Performance
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-<table>
-<tr>
-<th>🔭 Currently Working On</th>
-<th>🌱 Learning & Exploring</th>
-<th>🎯 2025 Goals</th>
-</tr>
-<tr>
-<td>
-
-• AI-powered web applications<br>
-• Mobile app development<br>
-• Full-stack solutions<br>
-• Open source contributions
-
-</td>
-<td>
-
-• Advanced Machine Learning<br>
-• Cloud Architecture (AWS/Azure)<br>
-• DevOps & CI/CD<br>
-• Web3 Technologies
-
-</td>
-<td>
-
-• Launch 3 major projects<br>
-• Contribute to 10+ OSS projects<br>
-• Master cloud technologies<br>
-• Build AI/ML expertise
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manulbandara&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=false" />
-</div>
-
-## 📫 Let's Connect & Collaborate
-
+<!-- Epic Introduction with Glitch Effect -->
 <div align="center">
   
-  *Always excited to work on innovative projects and meet fellow developers!*
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there!+%F0%9F%91%8B+I'm+Manul+Bandara;%F0%9F%9A%80+Full+Stack+Sorcerer+%7C+%F0%9F%A4%96+AI+Architect;%E2%9A%A1+Code+Artisan+%7C+%F0%9F%8C%9F+Innovation+Catalyst" alt="Animated Introduction" />
+  
+  <br>
+  
+  <!-- Animated Avatar with Glow Effect -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="300" style="border-radius: 50%; border: 4px solid #00F5FF; box-shadow: 0 0 50px #00F5FF;">
+  
+</div>
+
+<!-- Status Badges with Neon Glow -->
+<div align="center">
+  <br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=manulbandara&style=for-the-badge&color=00f5ff&label=DIGITAL%20VISITORS)
+  ![GitHub Followers](https://img.shields.io/github/followers/manulbandara?style=for-the-badge&color=ff6b6b&labelColor=1a1a1a&logo=github)
+  ![GitHub Stars](https://img.shields.io/github/stars/manulbandara?style=for-the-badge&color=ffd93d&labelColor=1a1a1a&logo=github)
+  ![Status](https://img.shields.io/badge/STATUS-CODING%20MAGIC-00ff41?style=for-the-badge&labelColor=1a1a1a)
+  
+</div>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manul%20bandara)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manulbandara@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/manul2391)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manulbandara)
+<!-- Matrix-Style About Me -->
+<div align="center">
+  
+  ```ascii
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                       🌟 DEVELOPER MATRIX 🌟                     ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  > Initializing creative_mode...                            ✓    ║
+  ║  > Loading innovation_engine...                             ✓    ║
+  ║  > Connecting to future_tech...                             ✓    ║
+  ║  > Status: Ready to build the impossible                    ✓    ║
+  ╚══════════════════════════════════════════════════════════════════╝
+  ```
+  
+</div>
 
 <br>
 
-[![Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ManulBandara)
-
-</div>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
----
-
+<!-- Holographic Profile Card -->
 <div align="center">
   
-  ### ⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+      </td>
+      <td>
+        
+  ### 👨‍💻 **About This Human**
   
-  *Thanks for visiting! Feel free to reach out if you want to collaborate on something amazing!*
-
+  ```typescript
+  interface ManulBandara {
+    name: string;
+    role: string[];
+    location: string;
+    superpowers: string[];
+    currentMission: string;
+    lifePhilosophy: string;
+  }
+  
+  const manul: ManulBandara = {
+    name: "Manul Bandara",
+    role: ["Full Stack Developer", "AI Enthusiast", "Digital Innovator"],
+    location: "Sri Lanka 🇱🇰",
+    superpowers: [
+      "🧠 Problem Solving",
+      "⚡ Rapid Learning", 
+      "🎨 Creative Coding",
+      "🤖 AI Implementation"
+    ],
+    currentMission: "Building AI-powered solutions that change the world",
+    lifePhilosophy: "Code is poetry, bugs are just plot twists! 🎭"
+  };
+  ```
+        
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
+<br>
+
+<!-- Neon Tech Stack -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  
+  ## 🛠️ **TECH ARSENAL** 
+  
+  ### ⚡ **Languages**
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,kotlin,c&theme=dark" alt="Languages" />
+  
+  ### 🌐 **Frontend**
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend" />
+  
+  ### 🔧 **Backend & Database**
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgresql,redis&theme=dark" alt="Backend" />
+  
+  ### 📱 **Mobile & Desktop**
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,electron,android&theme=dark" alt="Mobile" />
+  
+  ### ☁️ **Cloud & DevOps**
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github&theme=dark" alt="Cloud" />
+  
+  ### 🤖 **AI/ML & Tools**
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,figma,photoshop,vscode&theme=dark" alt="AI/ML" />
+  
 </div>
+
+<br>
+
+<!-- Animated Stats Dashboard -->
+<div align="center">
+  
+  ## 📊 **PERFORMANCE METRICS**
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&ring_color=00f5ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=radical&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" />
+  
+  <br><br>
+  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" />
+  
+</div>
+
+<br>
+
+<!-- Epic Project Showcase -->
+<div align="center">
+  
+  ## 🚀 **LEGENDARY PROJECTS**
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🤖 TripMate - AI Travel Companion</h3>
+        <a href="https://github.com/piyumal2105/TripMate">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=TripMate&theme=radical&hide_border=true&bg_color=0d1117" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/AI-Powered-ff6b6b?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+        <br><br>
+        <em>🌟 Revolutionary AI travel planning with 3D models & real-time assistance</em>
+      </td>
+      <td width="50%" align="center">
+        <h3>🛒 ShopHub.lk - Next-Gen E-Commerce</h3>
+        <a href="https://github.com/piyumal2105/ShopHub.lk">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=ShopHub.lk&theme=radical&hide_border=true&bg_color=0d1117" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Full%20Stack-4FC08D?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/E--Commerce-FF4081?style=for-the-badge" />
+        <br><br>
+        <em>🚀 Modern e-commerce platform with seamless user experience</em>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+<!-- Activity Graph with Glow -->
+<div align="center">
+  
+  ## 📈 **CODE FREQUENCY SPECTRUM**
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&custom_title=Manul's%20Contribution%20Universe&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area_color=00f5ff&title_color=00f5ff&area=true&hide_border=true&theme=react-dark" width="100%" />
+  
+</div>
+
+<br>
+
+<!-- Achievement Hall of Fame -->
+<div align="center">
+  
+  ## 🏆 **HALL OF FAME**
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=manulbandara&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true&rank=-C" />
+  
+</div>
+
+<br>
+
+<!-- Current Status with Live Animation -->
+<div align="center">
+  
+  ## ⚡ **LIVE STATUS DASHBOARD**
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-BUILDING-00ff41?style=for-the-badge&logo=hammer&logoColor=black" />
+        <br><strong>🚧 Currently Crafting</strong>
+        <br><em>AI-powered applications</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-LEARNING-ff6b6b?style=for-the-badge&logo=brain&logoColor=white" />
+        <br><strong>🧠 Brain Upgrading</strong>
+        <br><em>Advanced ML algorithms</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-COLLABORATING-00f5ff?style=for-the-badge&logo=handshake&logoColor=black" />
+        <br><strong>🤝 Open For</strong>
+        <br><em>Cool projects & ideas</em>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+<!-- Connect Section with Floating Effect -->
+<div align="center">
+  
+  ## 🌐 **CONNECT TO THE MATRIX**
+  
+  <p>
+    <em>Ready to collaborate on something legendary? Let's make it happen! 🚀</em>
+  </p>
+  
+  <div>
+    <a href="https://linkedin.com/in/manul%20bandara"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+    <a href="mailto:manulbandara@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+    <a href="https://twitter.com/manulbandara"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" /></a>
+    <a href="https://discord.gg/manul2391"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" /></a>
+  </div>
+  
+  <br>
+  
+  <a href="https://www.buymeacoffee.com/ManulBandara">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" />
+  </a>
+  
+</div>
+
+<br>
+
+<!-- Fun Interactive Section -->
+<div align="center">
+  
+  ## 💭 **DEVELOPER WISDOM**
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  
+  <br><br>
+  
+  ### 🎮 **Fun Fact Generator**
+  
+  ```javascript
+  const funFacts = [
+    "I once debugged a problem by rubber duck method... the duck quit! 🦆",
+    "My code compiles on the first try... said no developer ever! 😅", 
+    "I speak fluent JavaScript, Python, and sarcasm! 🐍",
+    "Coffee.exe has stopped working... productivity.exe cannot start! ☕",
+    "I don't always test my code, but when I do, I do it in production! 🚀"
+  ];
+  
+  console.log(funFacts[Math.floor(Math.random() * funFacts.length)]);
+  ```
+  
+</div>
+
+<br>
+
+<!-- Epic Footer -->
+<div align="center">
+  
+  ### 🔥 **THE CODING CONTINUES...**
+  
+  ```
+            while(alive) {
+         ╔══════════════════╗
+         ║  dream();         ║
+         ║  code();          ║  
+         ║  innovate();      ║
+         ║  inspire();       ║
+         ║  repeat();        ║
+         ╚══════════════════╝
+            }
+  ```
+  
+  <br>
+  
+  <sub>⭐ **Found something cool? Smash that star button!** ⭐</sub>
+  <br>
+  <sub>💫 **Let's build the future together, one commit at a time!** 💫</sub>
+  
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,18,20&height=120&section=footer&animation=twinkling&fontColor=fff" />
+</div>
+
+<!-- Hidden Easter Egg -->
+<!-- 
+🎉 CONGRATULATIONS! 🎉 
+You found the hidden easter egg! 
+You're clearly a developer who reads code carefully. 
+Respect! 🫡
+-->
