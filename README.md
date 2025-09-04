@@ -1,42 +1,30 @@
+# 👋 Hey, I'm Manul Bandara
+
 <div align="center">
-
-<!-- Elegant Futuristic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=MANUL%20BANDARA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer&descAlignY=55&descSize=18"/>
-
-<!-- Clean Animated Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+scalable+digital+solutions;Clean+code%2C+modern+architecture" alt="Typing Animation"/>
-
-<br/>
-
-<!-- Professional Status Badges -->
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-4F46E5?style=flat-square&logo=calendar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Sri%20Lanka-10B981?style=flat-square&logo=map-pin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-F59E0B?style=flat-square&logo=lightbulb&logoColor=white"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=manulbandara&style=flat-square&color=6366f1&label=Profile%20Views)
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Building%20the%20future%20with%20code%20%26%20creativity&descAlignY=60&descAlign=50)
 
 </div>
 
----
+## 🚀 About Me
 
-## 👨‍💻 About Me
+```yaml
+name: "Manul Bandara"
+located_in: "Sri Lanka"
+current_job: "Full Stack Developer"
+education: 
+  - "Computer Science Student"
+  - "Self-taught AI Enthusiast"
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  skills: string[];
-  passion: string;
-  currentFocus: string[];
-}
+fields_of_interests:
+  - "Web Development"
+  - "Mobile Development" 
+  - "Artificial Intelligence"
+  - "Machine Learning"
+  - "UI/UX Design"
 
-const manulBandara: Developer = {
-  name: "Manul Bandara",
-  role: "Associate Software Engineer",
-  skills: ["React", "Node.js", "Python", "AI/ML", "Cloud Computing"],
-  passion: "Creating innovative solutions that make a difference",
-  currentFocus: ["Next.js 14", "System Architecture", "AI Integration"]
-};
+currently_learning: ["Advanced AI/ML", "Cloud Architecture", "DevOps"]
+hobbies: ["Coding", "Problem Solving", "Tech Innovation", "Open Source"]
 ```
 
 ## 🛠️ Tech Stack
@@ -44,64 +32,62 @@ const manulBandara: Developer = {
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Mobile & Tools
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&theme=react&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=react&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manulbandara&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulbandara&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manulbandara&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</div>
+
+## 🏆 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 TripMate
-**AI-Powered Travel Companion**
+### 🤖 TripMate AI
+*Revolutionary AI Travel Companion*
 
-[![TripMate](https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=TripMate&theme=react&hide_border=true)](https://github.com/piyumal2105/TripMate)
+[![TripMate](https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=TripMate&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/piyumal2105/TripMate)
 
-**Tech Stack:** React Native, AI/ML, Node.js  
-**Features:** Smart travel planning, Real-time assistance, 3D models
+**Tech:** React Native • AI/ML • 3D Models
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🛒 ShopHub.lk
-**Modern E-Commerce Platform**
+*Next-Generation E-Commerce Platform*
 
-[![ShopHub](https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=ShopHub.lk&theme=react&hide_border=true)](https://github.com/piyumal2105/ShopHub.lk)
+[![ShopHub](https://github-readme-stats.vercel.app/api/pin/?username=piyumal2105&repo=ShopHub.lk&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/piyumal2105/ShopHub.lk)
 
-**Tech Stack:** MERN, Payment Integration, Cloud  
-**Features:** Seamless UX, Analytics dashboard, Secure payments
+**Tech:** MERN Stack • Modern UI/UX
 
 </td>
 </tr>
@@ -109,73 +95,49 @@ const manulBandara: Developer = {
 
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&bg_color=ffffff&color=6366f1&line=6366f1&point=4f46e5&area_color=e0e7ff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manulbandara&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=21262d&title_color=58a6ff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🔍 Learning**  
-Advanced System Design  
-Microservices Architecture  
-AI/ML Optimization
-
-</td>
-<td align="center" width="33%">
-
-**🔨 Building**  
-Next.js Applications  
-AI-Powered Tools  
-Cloud Solutions
-
-</td>
-<td align="center" width="33%">
-
-**🤝 Collaborating**  
-Open Source Projects  
-Team Development  
-Knowledge Sharing
-
-</td>
-</tr>
-</table>
+| 🔭 Working On | 🌱 Learning | 👯 Collaborating |
+|---------------|-------------|------------------|
+| AI-powered web applications | Advanced Machine Learning | Open source projects |
+| Mobile app development | Cloud architecture | Innovative startups |
+| Full-stack solutions | DevOps practices | Tech communities |
 
 </div>
 
-## 🌐 Connect With Me
+## 💬 Get In Touch
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manul-bandara)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manulbandara@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manulbandara)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/manul2391)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manul%20bandara)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manulbandara@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/manul2391)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manulbandara)
 
 <br/>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ManulBandara)
+**💡 Open to collaborating on innovative projects and ideas!**
 
 </div>
 
 ---
 
 <div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=manulbandara&style=for-the-badge&color=58a6ff&label=Profile%20Views)
+  
+  **⭐ If you find my work interesting, consider giving it a star!**
+  
+</div>
 
-### 💭 "Code is poetry written for machines but read by humans"
-
-<sub>⭐ **If you find my work interesting, consider starring my repositories!**</sub>  
-<sub>🤝 **Open to collaborations and innovative projects**</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
